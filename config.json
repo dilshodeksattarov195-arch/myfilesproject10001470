@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvalculate",
+        "uuid": 11102910,
+        "checksum": "fn8ax"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
